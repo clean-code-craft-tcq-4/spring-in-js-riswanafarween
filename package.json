@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/utthunga-tech/modular-js/issues"
   },
-  "homepage": "https://github.com/utthunga-tech/modular-js#readme"
+  "homepage": "https://github.com/utthunga-tech/modular-js#readme",
+  "dependencies": {
+    "jasmine": "^4.1.0",
+    "jasmine-node": "^3.0.0"
+  }
 }
